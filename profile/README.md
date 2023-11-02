@@ -1,6 +1,6 @@
 # Welcome to Biconomy 🍊
 **Empowering your Web3 Stack**  
-<img src="https://im2.ezgif.com/tmp/ezgif-2-1ced7381ef.gif" width="400" alt="Biconomy Logo">
+<img src="https://raw.githubusercontent.com/bcnmy/.github/master/assets/biconomy.gif" width="400" alt="Biconomy Logo">
 
 Our Account Abstraction toolkit enhances UX on your dapp or wallet, simplifying blockchain interactions.
 
