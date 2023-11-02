@@ -21,6 +21,8 @@ Our Paymaster service offers gasless transactions or gas payments in supported E
 ### 🍊 [Bundler](https://github.com/bcnmy/biconomy-client-sdk)
 The Bundler service organizes `userOps` in an alternative mempool, routing them to an Entry Point Contract for on-chain execution.
 
+### 🌀 [Hyphen](https://github.com/bcnmy/hyphen-sdk)
+Hyphen facilitates faster and more capital-efficient cross-chain transfers between EVM chains and Layer 2 solutions with ultra-low fees.
 
 ## 🛠 How to Contribute
 We welcome community contributions to our open source projects! Check our [CONTRIBUTING guidelines](https://github.com/bcnmy/scw-contracts/blob/main/CONTRIBUTING.md).
