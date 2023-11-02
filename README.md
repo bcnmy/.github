@@ -3,6 +3,7 @@
 <img src="https://im2.ezgif.com/tmp/ezgif-2-1ced7381ef.gif" width="400" alt="Biconomy Logo">
 
 Our Account Abstraction toolkit enhances UX on your dapp or wallet, simplifying blockchain interactions.
+
 [Get Started](https://docs.biconomy.io)
 
 ---
@@ -22,7 +23,7 @@ The Bundler service organizes `userOps` in an alternative mempool, routing them 
 
 
 ## 🛠 How to Contribute
-We welcome community contributions! Check our [CONTRIBUTING guidelines](https://github.com/bcnmy/scw-contracts/blob/main/CONTRIBUTING.md).
+We welcome community contributions to our open source projects! Check our [CONTRIBUTING guidelines](https://github.com/bcnmy/scw-contracts/blob/main/CONTRIBUTING.md).
 
 ## 📞 Contact & Connect
 - [Discord](https://discord.gg/biconomy)
