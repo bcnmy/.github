@@ -29,7 +29,7 @@ We welcome community contributions to our open source projects! Check our [CONTR
 
 ## 📞 Contact & Connect
 - [Discord](https://discord.gg/biconomy)
-- [Twitter](https://twitter.com/biconomy)
+- [X (formerly Twitter)](https://x.com/biconomy)
 - [LinkedIn](https://www.linkedin.com/company/biconomy)
 - [YouTube](https://www.youtube.com/channel/UC0CtA-Dw9yg-ENgav_VYjRw)
 - [Telegram](https://t.me/biconomy)
