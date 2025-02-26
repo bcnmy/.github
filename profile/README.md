@@ -1,35 +1,45 @@
-# Welcome to Biconomy 🍊
-**Empowering your Web3 Stack**  
-<img src="https://raw.githubusercontent.com/bcnmy/.github/master/assets/biconomy.gif" width="400" alt="Biconomy Logo">
 
-Our Account Abstraction toolkit enhances UX on your dapp or wallet, simplifying blockchain interactions.
+![Header](https://github.com/user-attachments/assets/c440fd59-40c4-47c6-9cf3-3037628cc8bf)
 
-[Get Started](https://docs.biconomy.io)
+# Welcome to Biconomy - Your Universal Interface to All Chains 🍊
 
----
+Biconomy enables developers to access users, assets and liquidity across all chains and rollups through powerful infrastructure & APIs and SDKs!
 
-### 🧩 [Modular Smart Account](https://github.com/bcnmy/scw-contracts)
+## Modular Execution Environment
+Execute multiple transactions across multiple chains with a single user signature. Our Modular Execution Node will make sure that all the transactions 
+are properly orchestrated across all chains. 
+[Read More](https://blog.biconomy.io/introducing-modular-execution-environment-mee/)
 
-Biconomy's Modular Smart Account is an ERC 4337-compliant solution facilitating diverse signature algorithms. It enables `userOps` as pseudo-transaction objects for seamless EVM transactions.
+### Supertransactions
+An innovative data model, developed by Biconomy - a Supertransaction can represent multiple transactions, intents and other actions with a single hash. By 
+signing that single hash, the user permits the entire Supertransaction to execute.
+[Read More](https://blog.biconomy.io/introduction-to-supertransactions/)
 
-### 🔑 [Biconomy SDK](https://github.com/bcnmy/biconomy-client-sdk)
-The Biconomy SDK provides tools for seamless dApp user experiences, encapsulating blockchain complexities for easier integration of modular smart accounts, paymasters, and bundlers.
+### Collaborative Execution
+Built to support a 1000+ chain integrations by enabling nodes to collaboratively execute Supertransactions which span multiple chains.
 
-### 🍊 [Paymaster](https://github.com/bcnmy/biconomy-paymasters)
-Our Paymaster service offers gasless transactions or gas payments in supported ERC20 tokens, enhancing developer experience.
+## Biconomy Network
+Biconomy network is our decentralized Modular Execution Environment.
 
-### 🍊 [Bundler](https://github.com/bcnmy/biconomy-client-sdk)
-The Bundler service organizes `userOps` in an alternative mempool, routing them to an Entry Point Contract for on-chain execution.
+## Nexus Account
+A secure and extremely gas efficient Modular Smart Account solution with a broad standards coverage (ERC-4337, ERC-7710, ERC-7715, EIP-7702, ERC-7579).
+[Read More](https://blog.biconomy.io/nexus-the-operating-system-for-smart-accounts/)
 
-### 🌀 [Hyphen](https://github.com/bcnmy/hyphen-sdk)
-Hyphen facilitates faster and more capital-efficient cross-chain transfers between EVM chains and Layer 2 solutions with ultra-low fees.
+### Composability Module
+Effortlessly compose multiple function calls across one or multiple chains and execute with a single signature. Use the output of one function call as the 
+input of the next one.
+[Read More](https://docs.biconomy.io/composability)
 
-## 🛠 How to Contribute
-We welcome community contributions to our open source projects! Check our [CONTRIBUTING guidelines](https://github.com/bcnmy/scw-contracts/blob/main/CONTRIBUTING.md).
+### Smart Sessions Module
+Add additional signers to your account with specific limitations. For example, add a signer which can only call a specific contract, with specific parameters,
+a specific number of times.
+[Read More](https://docs.biconomy.io/modules/validators/smartSessions)
 
-## 📞 Contact & Connect
-- [Discord](https://discord.gg/biconomy)
-- [Twitter](https://twitter.com/biconomy)
-- [LinkedIn](https://www.linkedin.com/company/biconomy)
-- [YouTube](https://www.youtube.com/channel/UC0CtA-Dw9yg-ENgav_VYjRw)
-- [Telegram](https://t.me/biconomy)
+### Smart EOA Modules
+Nexus account has the most comprehensive market support for "Smart EOAs" - EOA accounts which get Smart Account features by delegating through EIP-7702.
+By supporting ERC-7710, ERC-7715, EIP-7702 and our custom Fusion Modules - we make sure that _all_ (and we really mean all) of your users will get 
+access to Smart Account features - no matter which wallet they use _or_ whether or not they're willing to upgrade to a smart account.
+
+### Social / Passkeys Auth
+Login your onchain users with Social Login (Google, GitHub, Twitter/X) _or_ with a trustless Passkey authentication module.
+[Read More](https://docs.biconomy.io/modules/validators/passkeyValidator)
