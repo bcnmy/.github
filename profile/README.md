@@ -27,25 +27,30 @@ Built to support a 1000+ chain integrations by enabling nodes to collaboratively
 Biconomy network is our decentralized Modular Execution Environment - it enables trustless transaction execution across all major EVM chains and selected
 Rollups, but aims to scale to be the universal interface to all chains, covering a 1000+ chains.
 
-## Nexus Account
+## 🧡 Nexus Account
 A secure and extremely gas efficient Modular Smart Account solution with a broad standards coverage (ERC-4337, ERC-7710, ERC-7715, EIP-7702, ERC-7579).
 [Read More](https://blog.biconomy.io/nexus-the-operating-system-for-smart-accounts/)
 
-### Composability Module
+### 🧱 Composability Module
 Effortlessly compose multiple function calls across one or multiple chains and execute with a single signature. Use the output of one function call as the 
 input of the next one.
 [Read More](https://docs.biconomy.io/composability)
 
-### Smart Sessions Module
+### 🧠 Smart Sessions Module
 Add additional signers to your account with specific limitations. For example, add a signer which can only call a specific contract, with specific parameters,
 a specific number of times.
 [Read More](https://docs.biconomy.io/modules/validators/smartSessions)
 
-### Smart EOA Modules
+### 🔑 Smart EOA Modules
 Nexus account has the most comprehensive market support for "Smart EOAs" - EOA accounts which get Smart Account features by delegating through EIP-7702.
 By supporting ERC-7710, ERC-7715, EIP-7702 and our custom Fusion Modules - we make sure that _all_ (and we really mean all) of your users will get 
 access to Smart Account features - no matter which wallet they use _or_ whether or not they're willing to upgrade to a smart account.
 
-### Social / Passkeys Auth
+[Read about our EIP-7702 Stack](https://docs.biconomy.io/eip7702/wallet-guide)
+[Read about our Fusion Module](https://docs.biconomy.io/mee/fusion)
+
+### 🛂 Social / Passkeys Auth
 Login your onchain users with Social Login (Google, GitHub, Twitter/X) _or_ with a trustless Passkey authentication module.
 [Read More](https://docs.biconomy.io/modules/validators/passkeyValidator)
+
+
