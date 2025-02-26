@@ -5,21 +5,27 @@
 
 Biconomy enables developers to access users, assets and liquidity across all chains and rollups through powerful infrastructure & APIs and SDKs!
 
-## Modular Execution Environment
+## 🤖 Nomy - AI Powered Portfolio Manager
+NOMY is an AI powered tool designed to make crypto management easier and more intuitive. It completely reimagines how users interact with blockchain applications.
+By leveraging conversational LLMs, powerful ML models and a user friendly interface - Nomy makes getting onchain insights and being actionable on them a breeze.
+[Read More](https://blog.biconomy.io/introducing-nomy-ai-powered-intent-driven-on-chain-operations/)
+
+## 🧩 Modular Execution Environment
 Execute multiple transactions across multiple chains with a single user signature. Our Modular Execution Node will make sure that all the transactions 
 are properly orchestrated across all chains. 
 [Read More](https://blog.biconomy.io/introducing-modular-execution-environment-mee/)
 
-### Supertransactions
+### ♾️ Supertransactions
 An innovative data model, developed by Biconomy - a Supertransaction can represent multiple transactions, intents and other actions with a single hash. By 
 signing that single hash, the user permits the entire Supertransaction to execute.
 [Read More](https://blog.biconomy.io/introduction-to-supertransactions/)
 
-### Collaborative Execution
+### 🤝 Collaborative Execution
 Built to support a 1000+ chain integrations by enabling nodes to collaboratively execute Supertransactions which span multiple chains.
 
-## Biconomy Network
-Biconomy network is our decentralized Modular Execution Environment.
+## 🌍 Biconomy Network
+Biconomy network is our decentralized Modular Execution Environment - it enables trustless transaction execution across all major EVM chains and selected
+Rollups, but aims to scale to be the universal interface to all chains, covering a 1000+ chains.
 
 ## Nexus Account
 A secure and extremely gas efficient Modular Smart Account solution with a broad standards coverage (ERC-4337, ERC-7710, ERC-7715, EIP-7702, ERC-7579).
