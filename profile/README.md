@@ -59,7 +59,7 @@ Supply, withdraw, stake, and rebalance in a single action
 
 Unified, standardized API
 
-Built for Builders
+## Built for Builders
 
 Integrate in minutes with a type-safe, modular SDK
 
@@ -69,7 +69,7 @@ Works with existing stacks—no migration required
 
 Compatible with embedded wallets, EOAs, and institutional custody
 
-Ecosystem & Support
+## Ecosystem & Support
 
 Biconomy is backed by top investors and used across wallets, DeFi protocols, gaming, and institutional platforms.
 
